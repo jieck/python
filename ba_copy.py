@@ -1,8 +1,8 @@
-balance = 3329
+#balance = 3329
 #信用卡未支付债务余额
-annuallnterestRate = 0.2
+#annuallnterestRate = 0.2
 #十进制数的年利率
-monthlyPaymentRate = 0.02
+#monthlyPaymentRate = 0.02
 #十进制数的最小月支付比例
 month = 0
 mininumMonthlyPayment = 0
